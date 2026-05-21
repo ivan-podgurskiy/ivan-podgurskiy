@@ -9,6 +9,6 @@ defmodule Ivan do
 end
 ```
 
-I build backend systems and the libraries around them. Pinned repositories below are what I'm currently into.
+I write the code that's still running ten years later. Pinned repositories are the current ones.
 
 🌐 [ivanpodgurskiy.name](https://ivanpodgurskiy.name)
