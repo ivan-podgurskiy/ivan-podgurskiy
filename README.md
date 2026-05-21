@@ -1,5 +1,5 @@
 ### Ivan Podgurskiy
 
-Software engineer. I build things in the open — pinned below are what I'm currently into.
+Senior backend engineer with 20+ years of shipping. Independent, open to remote contracts.
 
 [ivanpodgurskiy.name](https://ivanpodgurskiy.name)
