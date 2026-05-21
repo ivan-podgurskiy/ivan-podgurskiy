@@ -2,7 +2,7 @@
 
 ```elixir
 defmodule Ivan do
-  @role        "Senior backend engineer"
+  @role        "Senior engineer / Tech lead"
   @experience  "20+ years of shipping"
   @status      "Independent, open to remote contracts"
   @site        "ivanpodgurskiy.name"
