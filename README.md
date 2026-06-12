@@ -16,4 +16,5 @@ end
 I write the code that's still running ten years later. Pinned repositories are the current ones.
 
 [![Website](https://img.shields.io/badge/Website-ivanpodgurskiy.name-111111?style=flat-square)](https://ivanpodgurskiy.name)\
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-ivan--podgurskiy.github.io-111111?style=flat-square&logo=github&logoColor=white)](https://ivan-podgurskiy.github.io/)\
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan%20Podgurskiy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanpodgurskiy/)
